@@ -1,4 +1,4 @@
-## Cust_Tran_Pred img.png
+![Customer Transaction Prediction](Cust_Tran_Pred_img.png)
 
 
 ## Introduction
